@@ -4,7 +4,7 @@ Project that aims to mimic libc printf function
 
 ## Project Overview:
 
-<li> Basics, requested from subject: </li>
+Basics, requested from subject:
 
 <li> A) parsing for flags, field_width, precision, length_modifier. </li>
 <li> B) parsing for conversion specifier. </li>
